@@ -12,7 +12,8 @@ To secure a position as a frontend developer where I can utilize my skills and k
 * Experience with UI libraries such as Chakra UI
 * Knowledge of Git and version control
 * Familiarity with responsive design principles and CSS preprocessors like Sass
-* Basic understanding of back-end technologies
+* Basic understanding of back-end technologies  
+
 #### Code example
 ```
 function firstLetterToUpperCase(word) {
