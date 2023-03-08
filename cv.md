@@ -1,3 +1,4 @@
+![Avatar](https://avatars.githubusercontent.com/u/101179294?v=4)
 ### Alexander Musienko 
 #### Contacts: 
 Email: *alexmvid0@gmail.com*
@@ -14,13 +15,16 @@ To secure a position as a frontend developer where I can utilize my skills and k
 * Basic understanding of back-end technologies
 #### Code example
 ```
-function multiply(a, b){
-  return a * b
+function firstLetterToUpperCase(word) {
+  let [firstLetter, ...rest] = word;
+
+  word = [firstLetter.toUpperCase(), ...rest];
+  return word.join("");
 }
 ```
 #### Experience
-[Weather Service](https://github.com/AlexanderMusienko/WeatherService) (Stack: React, Sass, Webpack, Framer Motion)
 [Lenses-Date Service](https://github.com/AlexanderMusienko/LensesDateService) (Stack: Vanilla JS, HTML5, Sass, Gulp)
+[Weather Service](https://github.com/AlexanderMusienko/WeatherService) (Stack: React, Sass, Webpack, Framer Motion)
 [Frontend for fake P2P market (mobile)](https://github.com/AlexanderMusienko/CryptoProject.git) (Stack: React, Sass, Vite, Chakra UI, Framer Motion)
 #### Education
 Self-study
