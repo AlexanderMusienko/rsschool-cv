@@ -24,7 +24,7 @@ function firstLetterToUpperCase(word) {
 ```
 #### Experience
 [Lenses-Date Service](https://github.com/AlexanderMusienko/LensesDateService) (Stack: Vanilla JS, HTML5, Sass, Gulp)
-[Weather Service](https://github.com/AlexanderMusienko/WeatherService) (Stack: React, Sass, Webpack, Framer Motion)
+[Weather Service](https://github.com/AlexanderMusienko/WeatherService) (Stack: React, Sass, Webpack, Framer Motion, Reaviz Charts)
 [Frontend for fake P2P market (mobile)](https://github.com/AlexanderMusienko/CryptoProject.git) (Stack: React, Sass, Vite, Chakra UI, Framer Motion)
 #### Education
 Self-study
